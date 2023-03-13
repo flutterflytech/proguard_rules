@@ -1,4 +1,4 @@
-# Proguard Rules
+# Proguard Rules For Flutter
 
 ProGuard is nice to have in your app because it helps to shrink, obfuscate and optimize your flutter app.
 
